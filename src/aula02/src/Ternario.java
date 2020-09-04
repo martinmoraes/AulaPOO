@@ -1,3 +1,5 @@
+package aula02.src;
+
 
 public class Ternario {
 

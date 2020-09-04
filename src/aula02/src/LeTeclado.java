@@ -1,3 +1,5 @@
+package aula02.src;
+
 import java.util.Scanner;
 
 public class LeTeclado {

@@ -1,4 +1,4 @@
-package principal;
+package FXApresentacoe.src.principal;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

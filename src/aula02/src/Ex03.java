@@ -1,3 +1,4 @@
+package aula02.src;
 
 public class Ex03 {
 	public static void main(String[] args) {

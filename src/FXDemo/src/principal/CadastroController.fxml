@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="263.0" prefWidth="357.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="principal.CadastroController">
+   <children>
+      <Button layoutX="192.0" layoutY="140.0" mnemonicParsing="false" onAction="#mostrar" text="Salvar" />
+      <Label layoutX="69.0" layoutY="57.0" text="Nome" />
+      <Label layoutX="69.0" layoutY="99.0" text="Fone" />
+      <TextField fx:id="tfNome" layoutX="118.0" layoutY="53.0" />
+      <TextField fx:id="tfFone" layoutX="118.0" layoutY="95.0" />
+      <Label fx:id="lbResultado" layoutX="72.0" layoutY="186.0" text="Resultado" />
+   </children>
+</AnchorPane>

@@ -1,4 +1,4 @@
-package SisAluno;
+package aula02.src.SisAluno;
 
 public class Aluno {
 
