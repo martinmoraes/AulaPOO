@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="198.0" prefWidth="554.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8" fx:controller="view.telamenu.TelaMenuController">
+   <children>
+      <Button fx:id="buttonMostra" layoutX="269.0" layoutY="40.0" mnemonicParsing="false" onAction="#buttonMostra_Action" text="Button" />
+      <Label layoutX="33.0" layoutY="44.0" text="Nome:" />
+      <TextField fx:id="textName" layoutX="84.0" layoutY="40.0" />
+   </children>
+</AnchorPane>
