@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="142.0" prefWidth="291.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8" fx:controller="fxDuasJanelas.telaTeste02.Teste2">
+   <children>
+      <Label layoutX="104.0" layoutY="63.0" text="Segunda Janela" />
+      <Button fx:id="buttonMostra" layoutX="120.0" layoutY="90.0" mnemonicParsing="false" onAction="#buttonMostra_OnAction" text="Mostra" />
+   </children>
+</AnchorPane>

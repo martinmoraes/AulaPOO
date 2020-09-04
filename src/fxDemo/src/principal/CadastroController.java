@@ -1,4 +1,4 @@
-package FXDemo.src.principal;
+package fxDemo.src.principal;
 
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;

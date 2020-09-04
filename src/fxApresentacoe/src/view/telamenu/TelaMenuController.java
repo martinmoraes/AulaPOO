@@ -1,4 +1,4 @@
-package FXApresentacoe.src.view.telamenu;
+package fxApresentacoe.src.view.telamenu;
 
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
