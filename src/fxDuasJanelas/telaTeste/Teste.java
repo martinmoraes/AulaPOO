@@ -22,7 +22,11 @@ public class Teste extends Application {
     void buttonMostraTela_OnAction(ActionEvent event) {
     	Stage stage = (Stage) buttonMostraTela.getScene().getWindow(); 
     	Teste2 t = new Teste2();
-		t.start(stage);
+    	t.start(stage);
+    	
+//		t.start(new Stage());
+//		t.start(new Stage());
+
     }
 	
 	
